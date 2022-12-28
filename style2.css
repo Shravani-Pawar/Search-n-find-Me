@@ -1,0 +1,19 @@
+div{
+    margin-top: 50px;
+}
+label,#input
+{
+    font-size: 18px;
+}
+
+#status
+{
+    margin-top: 30px;
+    background-color: rgb(238, 153, 153);
+    border-color: black;
+    border-width: 4px;
+}
+#status:hover
+{
+    pointer-events: none;
+}

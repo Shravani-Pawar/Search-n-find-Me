@@ -1,0 +1,50 @@
+body
+{
+    background-color: rgb(188, 182, 182);
+}
+#main_div
+{
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    border-width: 6px;
+    border-color: black;
+    border-style: double;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+h4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(238, 232, 232);
+    border-radius: 12px;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#start
+{
+    background-color: rgb(23, 230, 23);
+    border-color:white;
+    color: white;
+    margin-top: -20px;
+    border-width: 4px;
+}
+
+#pl
+{
+    width: 400px;
+}
+
+h1{
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 200px;
+}
+canvas{
+    box-shadow: 10px 10px 10px aqua;
+    box-shadow: inset;
+    
+}
+
